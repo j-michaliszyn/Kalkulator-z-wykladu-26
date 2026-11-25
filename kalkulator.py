@@ -125,9 +125,8 @@ class Calculator:
             return f"{show(left)} {op} {show(right)} ="
         return ""
 
-
-PAPER, INK, DISPLAY = "#f3f2eb", "#192f2d", "#163e39"
-MINT, SOFT, DIM = "#acedd0", "#dce7de", "#abc8bc"
+PAPER, INK, DISPLAY = "#44f2eb", "#aa2f2d", "#773e39"
+MINT, SOFT, DIM = "#44edd0", "#44e7de", "#44c8bc"
 
 
 class Window:
